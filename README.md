@@ -2,7 +2,7 @@
 
 ## Bienvenue! Welcome here!
 
-(Français)[README-fr.md]
+- Français (https://github.com/tts-cables/power/blob/main/README-fr.md)
 
 ## License
 
