@@ -2,7 +2,7 @@
 
 ## Bienvenue!
 
-Vous entrez dans l'univers (TTS)[www.tts-cables.com] pour la conception de cables secteurs.
+Vous entrez dans l'univers TTS (www.tts-cables.com) pour la conception de cables secteurs.
 
 ** Site en construction **
 
