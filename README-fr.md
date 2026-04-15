@@ -13,7 +13,9 @@ L'optimisation d'un système, quelque soit son prix, passe par un choix judicieu
 Les cables TTS ont été éprouvés au grès de nombreuses heures d'essais et sont basés sur une architecture "classique" (pas de concept exotique ou formules magiques).
 Ils atteignent des résultats et une satisfaction sans compromis auprès de tous les auditeurs qui ont eu la chance de les tester.
 
-Vous pouvez vous-même fabriquer vos cables ou trouver des cables d'occasion en vente sur leboncoin (revendeur "pak")...
+Vous pouvez vous-même fabriquer vos cables ou trouver des cables d'occasion en vente sur leboncoin.
+
+Leur fabrication requiert toutefois un soin très élevé et jusqu'à plus de 10h de main d'oeuvre.
 
 
 ## Déclinaison des cables secteurs
