@@ -2,7 +2,7 @@
 
 ## Bienvenue! Welcome here!
 
-(Français)[README-fr.md]
+[Français](README-fr.md)
 
 ## License
 
