@@ -2,7 +2,7 @@
 
 ## Bienvenue!
 
-Vous entrez dans l'univers [TTS](www.tts-cables.com) pour la conception de cables secteurs.
+Vous entrez dans l'univers [TTS](www.tts-cables.com) pour la conception des cables secteurs **Addict Legacy**.
 
 ** Site en construction **
 
@@ -17,9 +17,32 @@ Vous pouvez vous-même fabriquer vos cables ou trouver des cables d'occasion en 
 
 Leur fabrication requiert toutefois un soin très élevé et jusqu'à plus de 10h de main d'oeuvre par un électricien expérimenté.
 
+## Power Addict Legacy
 
-## Déclinaison des cables secteurs
++ Triple blindage par gaine de Cuivre (le "S" de TTS pour "Super Shielded/Blindé").
++ Fils de Litz cuivre émaillé et guipé (fabrication norme IEC ISO 9001). Section 5mm2 Phase, 5mm2 Neutre.
++ Terre  en cuivre multibrins isolé PVC.
++ Blindage actif, optionel, pour magnifier plus encore les qualités de ce cable via 2 piles A23/MN21 (12V).
++ Utilisation de multiples dielectriques PTFE (Téflon) et PET tressée.
++ Etammage des fils de Litz à la soudure Mundorf Ag 10%.
+
+
+Le fil de Litz utilisé dans la gamme "Legacy" provient d'une ancienne bobine dont nous connaissons le fabricant mais dont le cahier des charges a été perdu, l'origine du cuivre est incertaine mais la qualité et le niveau de performance obtenu avec ce cuivre est maintenant certain :-).
+
+Les cables Legacy auront donc un volume de fabrication et ne pourront être fabriqué que par notre équipe (les administrateurs de ce repository).
+
+Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cuivre ou métaux mais ce qui les Legacy resteront très certainement uniques.
+
+## Déclinaisons des cables secteurs
 
 - TTS Legacy Addict - Architecture triple blindage pour un silence de fonctionnement exemplaire, Fil de Litz Legacy pour un naturels de timbres de haut niveau. [Accéder aux schémas ici]().
 - TTS Legacy Mini - Moins de blindage mais toujours les qualités du cablage "Legacy". A venir...
 - TTS Providers Addict - Remplacement du fil de Litz Legacy par du fil de cablage audio plus courant. A venir...
+
+## Fabrication
+
+Nous disposons d'un atelier de fabrication des TTS Legacy et nos fabrications sont identifiées et impossibles à copier même avec les plans que nous diffusons via ce site.
+
+Plans à venir...
+
+
