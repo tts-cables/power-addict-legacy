@@ -47,9 +47,9 @@ Nous disposons d'un atelier de fabrication des TTS Legacy et nos fabrications so
 
 Plans à venir...
 
-Nous revendons nos réalisations qui restent des produits artisanaux d'occasion déjà rodés, qui ont servi pour usage personnel et évaluations/comparatifs/mesures.
+Nous revendons nos réalisations qui sont des produits artisanaux d'occasion déjà rodés, ayant servi pour usage personnel et évaluations/comparatifs/mesures.
 
-Au travers de ce repository/site, les optimisations, évolutions seront diffusés au travers de différentes versions de nos plans.
+Au travers de ce repository/site, les optimisations, évolutions seront diffusées au travers de différentes versions de nos plans.
 
 
 
