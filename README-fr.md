@@ -1,6 +1,6 @@
 # TTS Power Cables
 
-**T.T.** les initiale de la personne qui nous a permis de lui acheter le fil de cablage d'où tout est parti.
+**T.T.** les initiale de la personne qui nous vendu le fil de cablage d'où tout est parti.
 
 **S** pour **S**hielded, blindé.
 
