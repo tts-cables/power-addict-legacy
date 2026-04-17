@@ -43,7 +43,7 @@ Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cu
 
 ## Fabrication
 
-Nous disposons d'un atelier de fabrication des TTS Legacy et nos fabrications sont identifiées et impossibles à copier même avec les plans que nous diffusons via ce site.
+Nous disposons d'un atelier de fabrication des TTS Legacy. Nos fabrications sont imitables mais pratiquement impossibles à copier même avec les plans que nous diffusons via ce site.
 
 Plans à venir...
 
