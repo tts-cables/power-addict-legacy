@@ -1,6 +1,6 @@
 # TTS Power Cables
 
-**T.T.** les initiale de la personne qui nous vendu le fil de cablage d'où tout est parti.
+**T.T.** les initiale de la personne qui nous a vendu le fil de cablage d'où tout est parti.
 
 **S** pour **S**hielded, blindé.
 
@@ -31,13 +31,15 @@ Leur fabrication requiert toutefois un soin très élevé et jusqu'à plus de 10
 
 Le fil de Litz utilisé dans la gamme "Legacy" provient d'une ancienne bobine dont nous connaissons le fabricant mais dont le cahier des charges a été perdu, l'origine du cuivre est incertaine mais la qualité et le niveau de performance obtenu avec ce cuivre est maintenant certain :-).
 
+![Fil de Litz dit 'Legacy'](/assets/tts-legacy.png)
+
 Les cables Legacy auront donc un volume de fabrication limité et ne pourront être fabriqué que par notre équipe.
 
 Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cuivre ou métaux mais les versions "Legacy" resteront très certainement uniques.
 
 ## Déclinaisons des cables secteurs
 
-- TTS Addict Legacy - Architecture triple blindage pour un silence de fonctionnement exemplaire, Fil de Litz Legacy pour un naturels de timbres de haut niveau. [Accéder aux schémas ici]().
+- TTS Addict Legacy - Architecture triple blindage pour un silence de fonctionnement exemplaire, Fil de Litz Legacy pour un naturels de timbres de haut niveau.
 - TTS Mini Legacy - Moins de blindage mais toujours les qualités du cablage "Legacy". A venir...
 - TTS Addict Community - Remplacement du fil de Litz Legacy par du fil de cablage audio plus courant. A venir...
 
@@ -50,6 +52,8 @@ Plans à venir...
 Nous revendons nos réalisations qui sont des produits artisanaux d'occasion déjà rodés, ayant servi pour usage personnel et évaluations/comparatifs/mesures.
 
 Au travers de ce repository/site, les optimisations, évolutions seront diffusées au travers de différentes versions de nos plans.
+
+[La procédure de fabrication](/how-to-build-fr.md)
 
 
 
