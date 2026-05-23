@@ -6,7 +6,7 @@
 
 ## Bienvenue!
 
-Vous entrez dans l'univers [TTS](www.tts-cables.com) pour la conception de cables secteurs.
+Vous entrez dans l'univers [TTS](https://www.tts-cables.com){target="_blank"} pour la conception de cables secteurs.
 
 Ce repository est maintenus par des passionnés souhaitant partager leur expérience de recettes réussies dans le montage de cables. La réussite étant caractérisée par un réel plaisir à l'écoute de nos systèmes hifi optimisés avec ces cables.
 
