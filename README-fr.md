@@ -15,7 +15,7 @@ L'optimisation d'un système, quelque soit son prix, passe par un choix judicieu
 Les cables TTS ont été éprouvés au grès de nombreuses heures d'essais et sont basés sur une architecture "classique" (pas de concept exotique ou formules magiques).
 Ils atteignent des résultats et une satisfaction sans compromis auprès de tous les auditeurs qui ont eu la chance de les tester et parfois même au-delà de très grandes références en la matière.
 
-Vous pouvez vous-même fabriquer vos cables ou trouver des cables d'occasion en vente (points à venir...).
+Vous pouvez vous-même fabriquer vos cables ou trouver des cables d'occasion en vente sur LeBonCoin (rechercher tts-cables).
 
 Leur fabrication requiert toutefois un soin très élevé et jusqu'à plus de 10h de main d'oeuvre par un électricien expérimenté.
 
@@ -33,7 +33,7 @@ Le fil de Litz utilisé dans la gamme "Legacy" provient d'une ancienne bobine do
 
 ![Fil de Litz dit 'Legacy'](/assets/tts-legacy.png)
 
-Les cables Legacy auront donc un volume de fabrication limité et ne pourront être fabriqué que par notre équipe.
+De ce fait, les cables Legacy auront donc un volume de production limité et ne pourront être fabriqué que par notre équipe.
 
 Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cuivre ou métaux mais les versions "Legacy" resteront très certainement uniques.
 
@@ -47,13 +47,11 @@ Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cu
 
 Nous disposons d'un atelier de fabrication des TTS Legacy. Nos fabrications sont imitables mais pratiquement impossibles à copier même avec les plans que nous diffusons via ce site.
 
-Plans à venir...
+Nos réalisations en vente sont des produits artisanaux d'occasion déjà rodés, ayant servi pour usage personnel et évaluations/comparatifs/mesures.
 
-Nous revendons nos réalisations qui sont des produits artisanaux d'occasion déjà rodés, ayant servi pour usage personnel et évaluations/comparatifs/mesures.
+Les optimisations, évolutions seront diffusées, au travers de ce repository/site, sous différentes versions.
 
-Au travers de ce repository/site, les optimisations, évolutions seront diffusées au travers de différentes versions de nos plans.
-
-[La procédure de fabrication](/how-to-build-fr.md)
+[La procédure de fabrication du TTS Addict](/how-to-build-fr.md)
 
 
 
