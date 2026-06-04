@@ -8,7 +8,7 @@
 
 Vous entrez dans l'univers [TTS](https://www.tts-cables.com) pour la conception de cables secteurs.
 
-Ce repository est maintenus par des passionnés souhaitant partager leur expérience de recettes réussies dans le montage de cables. La réussite étant caractérisée par un réel plaisir à l'écoute de nos systèmes hifi optimisés avec ces cables.
+Ce repository est maintenu par des passionnés souhaitant partager leur expérience de recettes réussies dans le montage de cables. La réussite étant caractérisée par un réel plaisir à l'écoute de nos systèmes hifi optimisés avec ces cables.
 
 L'optimisation d'un système, quelque soit son prix, passe par un choix judicieux des cables qui l'alimentent.
 
