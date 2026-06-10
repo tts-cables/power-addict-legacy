@@ -23,12 +23,12 @@ Temps total pour 1 cable: 9-10h
     - Respecter X noeuds par mètre
 10) Joindre 2 cables de terres (vert-jaunes), 1m30 chaque au toron de Litz Phase-Neutre. Essayer de limiter l'épaisseur de l'ensemble
 11) Gainer le tout de cuivre tressé (Shield Ext) gros diamètre 
-12) Monter les fils et connecteurs du blindage actif d'un coté (sera le coté Schucko) et dénuder les terres vert-jaune à relier à la borne négative du connecteur pile
+12) Monter les fils et connecteurs du blindage actif du coté Schuko et dénuder les terres vert-jaune à relier à la borne négative du connecteur pile
 13) Bien isoler les gaines de cuivre avec du PTFE / gaine thermo
 14) Gainer avec du PTFE toute la longueur du cable
-15) Gainer PET extérieur sur toute la longueur
-16) Découper les excédents, gaine thermo de maintien
-17) Finitions
+15) Enfiler la gaine PET extérieure sur toute la longueur
+16) Découper les excédents, placer de la gaine thermo de maintien aux extrémités
+17) Finitions (gaine thermo textile, plaque TTS, connecteurs pour piles du blindage...)
 18) Montage des connecteurs
 
 ## Illustrations
