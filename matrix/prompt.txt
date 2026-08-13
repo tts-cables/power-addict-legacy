@@ -1,26 +1,16 @@
-Le fichier "TTS-ConnectorsMatrix" joint contient principalement une matrice de différent types de connecteurs secteurs Hi-Fi (Schuko et IEC) testés sur un câble secteur TTS . 
-Cette matrice représente les tests d'écoute de plusieurs auditeurs/testeurs qui ont donc essayé différentes combinaisons de connecteurs de modèle et marque différentes.Dans le tableau on retrouve en ligne et en colonne chaque marque/modèle de connecteur.Certaines combinaisons n'ont pas été testées, 
-donc certaines cellules du tableau sont vides. 
-Analyse le fichier joint à ce projet dans lequel on retrouve en premier lieu, quelques règles qui expliquent la méthode. 
-Après ces règles, une ligne suit et donne, par colonne, les auditeurs avec leurs gouts préférés en terme de type de son ainsi que leur équipement Hi-Fi et diverses expériences musicales.
-Vient ensuite un tableau avec tous les tests par type de connecteurs. 
-En ligne les Schuko, en colonne les IEC. 
-Puis après le tableaux, certaines appréciations synthétiques et subjectives des auditeurs. 
+Analyse le fichier joint 'Current-TTS-ConnectorsMatrix.xxx' dans lequel on retrouve en tête des explications sur les données fournies ensuite, dont la matrice des connecteurs secteurs. 
 
-Ce qu'il faut produire: 
-A partir de ces données dresse une liste de tous les connecteurs secteurs avec une synthèse la plus courte et précise possible, des impressions. 
+Ce qu'il faut produire à partir de ces données: 
+Dresse une liste de tous les connecteurs secteurs avec une synthèse la plus courte et précise possible, des impressions. 
 Tu peux t'aider de sources extérieures sur des sites audiophiles pour corroborer ou modérer les avis des auditeurs, sachant que les cables TTS Addict Legacy ne sont connus que des auditeurs cités dans ce document.
 Un tableau au format Markdown est possible. 
 La liste des appréciations des connecteurs, doit être ordonnée par ordre d'appréciation avec les meilleurs appréciations en premier. 
 Fait une conclusion, qui résume en quelques phrases l'ensemble des avis et à ce niveau, plus particulièrement, 
 il est intéressant de faire des références vers des avis provenants de sites audiophiles extérieurs en mentionnant les sources et toujours à vérifier que 
 si le terme TTS est utilisé il s'agit bien du cable TTS Addict Legacy. 
-Le Markdown que tu vas générer s'adressera à des personnes qui ne connaissent pas les cables TTS ou d'autres qui connaissent partiellement les cables TTS et recherchent à en assembler un qui s'intègrera le mieux dans son système. 
-Donc, cela peut se terminer par des réflexions pertinentes qui pourraient aider toute personne cherchant à optimiser son système Hi-Fi à choisir un cable TTS avec des connecteurs bien sélectionnés.
 
-
-Note: Pour les sites extérieurs qui compareraient des cables avec le TTS, prendre bien soin de vérifier qu'il s'agit d'un cable "TTS Addict Legacy" et 
-pas uniquement TTS qui pourrait être un cable portant ce nom mais qui n'a rien à voir avec le Addict Legacy testé dans notre tableau. 
+L'analyse à produire s'adressera à des personnes qui ne connaissent pas les cables TTS Addict Legacy ou d'autres qui les connaissent partiellement et recherchent l'association avec des connecteurs permetant d'améliorer la musicalité de leur système. 
+Donc, cela doit se terminer par des réflexions pertinentes pour aider ces personnes en quête d'optimisation de leur système.
 
 Pour terminer, propose-moi la meilleur combinaison de connecteurs possible si j'ajoute plusieurs cables TTS Addict Legacy dans mon système.
 Mon système est composer d'un DAC (modèle à préciser), d'un amplificateur (modèle à préciser), et d'enceintes (modèle à préciser).
