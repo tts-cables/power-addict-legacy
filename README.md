@@ -2,7 +2,8 @@
 
 ## Bienvenue! Welcome here!
 
-- [Présentation Française de l'univers Power TTS](https://github.com/tts-cables/power/blob/main/README-fr.md)
+- [Présentation (FR)](https://github.com/tts-cables/power/blob/main/README-fr.md)
+- [Procédure de fabrication (FR)](https://github.com/tts-cables/power/blob/main/how-to-build-fr.md)
 - TTS Power presentation in English, coming soon....
 
 ## Contact
