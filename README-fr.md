@@ -53,5 +53,12 @@ Les optimisations, évolutions seront diffusées, au travers de ce repository/si
 
 [La procédure de fabrication du TTS Addict](/how-to-build-fr.md)
 
+## Contact
+
+  Email: [info@tts-cables.com](mailto:info@tts-cables.com)
+  
+## License
+
+GPL-3.0 license.
 
 
