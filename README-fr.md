@@ -1,8 +1,8 @@
 # TTS Power Cables
 
-**T.T.** les initiale de la personne qui nous a vendu le fil de cablage d'où tout est parti.
+**T.T.** les initiale de la personne qui nous a vendu le fil de cablage ("Legacy") d'où tout est parti.
 
-**S** pour **S**hielded, blindé.
+**S** pour **S**hielded, (très) blindé.
 
 ## Bienvenue!
 
