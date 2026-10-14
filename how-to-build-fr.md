@@ -8,17 +8,18 @@ La procédure ci-dessous, décrit la fabrication V1 du cable TTS Addict Legacy t
 
 ## Procédure de montage simplifiée
 
-Temps total pour 1 cable: 9-10h
+Temps total pour 1 cable secteur: 9-10h
+Les étapes indiquées [SECURITE ELECRIQUE] sont importantes pour éviter les risques de court-circuit avec la terre.
 
-1) Pour 1m de cable, couper 2x1.05m de cable de Litz Legacy
+1) Pour 1m de cable en Litz Legacy prévoir 5% dé plus par bin Phase & Neutre, soit 2x1.05m. Pour 1m25 couper 2x1m30. Pour 1m90 couper 2x2m.
 2) Suppression du guipage aux extrémités (8 extrémités!!) sur 2cm
 3) Etamer les extrémités (8x) des cables de litz
     - Option1: avec un fer à souder et de la soudure Mundorf 10% Ag
-    - Option2: au bain d'étamage, Cu+Ag à 400° Celsius (tremper 4s, nettoyer la surface, re-tremper 6-8s maxi) 
+    - Option2: au bain d'étamage, Cu+Ag à 400° Celsius (tremper 4s, nettoyer la surface, re-tremper 6-7s maxi) 
 5) Laisser refroidir et brosser à la brosse métallique les extrémités
-6) Gainer les extrémités avec du  PTFE (type plomberie) sur 10cm
-7) Gainer avec gaine thermo sur les 10cm la ligne phase (en rouge) et la ligne Neutre (en noire)
-8) Gainer en PET petit diamètre sur toute la longueur (non existant en version V0) => Réduction notable de la capacitance du cable 
+6) [SECURITE ELECRIQUE] Gainer les extrémités avec du  PTFE (type plomberie) sur 10cm. Cette zone a pu être fragilisée par l'étape d'étamage qui chauffe considérablement le fil et put altérer le vernis des brins de Litz.
+7) [SECURITE ELECRIQUE] Gainer avec gaine thermo sur les 10cm la ligne phase (en rouge) et la ligne Neutre (en noire). Encore un renfort contre les fuites électriques.
+8) Gainer en PET petit diamètre sur toute la longueur (non existant en version V0) => Réduction notable de la capacitance du cable et meilleure isolation des lignes phase neutre avec la terre
 9) Gainer de cuivre tressé (Shield Interieur) petit diamètre chaque cable de Litz (x2) 
 10) Gainer avec du PTFE (0.2mm épaisseur) chaque cable de Litz (x2)
 11) Torsader le 2 cables de Litz (Neutre et Phase) sur toute la longueur. 
