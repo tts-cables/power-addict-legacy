@@ -13,11 +13,11 @@ Les étapes indiquées [SECURITE ELECRIQUE] sont importantes pour éviter les ri
 
 1) Pour 1m de cable en Litz Legacy prévoir 5% dé plus par bin Phase & Neutre, soit 2x1.05m. Pour 1m25 couper 2x1m30. Pour 1m90 couper 2x2m.
 2) Suppression du guipage aux extrémités (8 extrémités!!) sur 2cm
-3) Etamer les extrémités (8x) des cables de litz
+3) Etamer les extrémités (8x) des cables de litz (puis montez des embouts en cuivre OCC ou Ag, ou pas)
     - Option1: avec un fer à souder et de la soudure Mundorf 10% Ag
-    - Option2: au bain d'étamage, Cu+Ag à 400° Celsius (tremper 4s, nettoyer la surface, re-tremper 6-7s maxi) 
+    - Option2: au bain d'étamage, Cu+Ag à 400° Celsius (tremper 3-4s, nettoyer la surface, re-tremper 6-7s maxi) 
 5) Laisser refroidir et brosser à la brosse métallique les extrémités
-6) [SECURITE ELECRIQUE] Gainer les extrémités avec du  PTFE (type plomberie) sur 10cm. Cette zone a pu être fragilisée par l'étape d'étamage qui chauffe considérablement le fil et put altérer le vernis des brins de Litz.
+6) [SECURITE ELECRIQUE] Gainer les extrémités avec du  PTFE (type plomberie) sur 10cm. Cette zone a pu être fragilisée par l'étape d'étamage qui chauffe considérablement le fil et qui a pu altérer le vernis des brins de Litz aux extrémités.
 7) [SECURITE ELECRIQUE] Gainer avec gaine thermo sur les 10cm la ligne phase (en rouge) et la ligne Neutre (en noire). Encore un renfort contre les fuites électriques.
 8) Gainer en PET petit diamètre sur toute la longueur (non existant en version V0) => Réduction notable de la capacitance du cable et meilleure isolation des lignes phase neutre avec la terre
 9) Gainer de cuivre tressé (Shield Interieur) petit diamètre chaque cable de Litz (x2) 
@@ -26,14 +26,14 @@ Les étapes indiquées [SECURITE ELECRIQUE] sont importantes pour éviter les ri
     - Régularité
     - Respecter X noeuds par mètre
 12) Joindre 2 cables de terres (vert-jaunes), 1m30 chaque au toron de Litz Phase-Neutre. Essayer de limiter l'épaisseur/diamètre de l'ensemble
-13) Gainer le tout de cuivre tressé (Shield Ext) gros diamètre 
+13) Gainer le tout de cuivre tressé (Shield Ext) gros diamètre. Y passer le fil noir pour la connexion batterie (négatif), y raccorder le fil rouge pour la connexion batteries (positif)
 14) Monter les fils et connecteurs du blindage actif du coté Schuko et dénuder les terres vert-jaune à relier à la borne négative du connecteur pile
 15) Bien isoler les gaines de cuivre avec du PTFE / gaine thermo
-16) Gainer avec du PTFE toute la longueur du cable
-17) Enfiler la gaine PET extérieure sur toute la longueur
+16) Optionnel: Gainer avec du PTFE toute la longueur du cable
+17) Enfiler la gaine PET extérieure sur toute la longueur. Coté schucko
 18) Découper les excédents, placer de la gaine thermo de maintien aux extrémités
 19) Finitions (gaine thermo textile, plaque logo TTS, connecteurs pour piles du blindage...)
-20) Montage des connecteurs Schuko et IEC
+20) Montage des connecteurs Schuko, IEC et pile
 
 ## Illustrations
 
