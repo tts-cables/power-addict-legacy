@@ -1,6 +1,6 @@
 # Fabrication (V1)
 
-La procédure ci-dessous, décrit la fabrication V1 du cable TTS Addict Legacy tel que vous le trouverez peut-être en vente sur LeBonCoin. La version V0 est quasi identique (étape 6 manquante). Ces 2 versions sont donc très proches et nous les utilisons indistinctement dans nos systèmes.
+La procédure ci-dessous, décrit la fabrication V1 du cable TTS Addict Legacy tel que vous le trouverez peut-être en vente sur LeBonCoin. La version V0 est quasi identique (étape 6 et 7 manquantes). Ces 2 versions sont donc très proches et nous les utilisons indistinctement dans nos systèmes.
 
 ## Vue schématisée
 
