@@ -55,7 +55,8 @@ Les optimisations, évolutions seront diffusées, au travers de ce repository/si
 
 ## Précautions d'emploi
 
-En usage standard sur une installation Hifi avec des équipements aux normes, les cables TTS ne présentent pas de risque d'électrocution ou de départ de feu. 
+En usage standard sur une installation Hifi avec des équipements aux normes, les cables TTS ne présentent pas de risque d'électrocution ou de départ de feu.
+
 Toutefois nos recommandations sont les suivantes: Usage intérieur uniquement, ne pas tremper ou humidifier les cables dans l'eau ou tout autre liquide, ne pas plier les cables (enroulage possible), ne pas perforer les cables.
 
 Ce projet DIY n'est pas à échelle industrielle, et nous déclinons toute responsabilité de ce qui pourrait advenir de l'utilisation de nos câble dans votre propre environnement.
