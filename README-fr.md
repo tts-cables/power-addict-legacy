@@ -53,7 +53,7 @@ Les optimisations, évolutions seront diffusées, au travers de ce repository/si
 
 [La procédure de fabrication du TTS Addict](/how-to-build-fr.md)
 
-## Précautions d'emploi
+## Déni de responsabilité
 
 En usage standard sur une installation Hifi avec des équipements aux normes, les cables TTS ne présentent pas de risque d'électrocution ou de départ de feu.
 
